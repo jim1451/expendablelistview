@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\code\AndroidTests-master\AndroidTests-master\AndroidTests.iml" filepath="D:\code\AndroidTests-master\AndroidTests-master\AndroidTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidTests-master.iml" filepath="$PROJECT_DIR$/AndroidTests-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalendarTest/CalendarTest.iml" filepath="$PROJECT_DIR$/CalendarTest/CalendarTest.iml" />
+      <module fileurl="file://D:\code\AndroidTests-master\AndroidTests-master\CalendarTest\CalendarTest.iml" filepath="D:\code\AndroidTests-master\AndroidTests-master\CalendarTest\CalendarTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventBusTest/EventBusTest.iml" filepath="$PROJECT_DIR$/EventBusTest/EventBusTest.iml" />
+      <module fileurl="file://D:\code\AndroidTests-master\AndroidTests-master\EventBusTest\EventBusTest.iml" filepath="D:\code\AndroidTests-master\AndroidTests-master\EventBusTest\EventBusTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExpandableListViewTest/ExpandableListViewTest.iml" filepath="$PROJECT_DIR$/ExpandableListViewTest/ExpandableListViewTest.iml" />
+      <module fileurl="file://D:\code\AndroidTests-master\AndroidTests-master\ExpandableListViewTest\ExpandableListViewTest.iml" filepath="D:\code\AndroidTests-master\AndroidTests-master\ExpandableListViewTest\ExpandableListViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResourceFileTest/ResourceFileTest.iml" filepath="$PROJECT_DIR$/ResourceFileTest/ResourceFileTest.iml" />
+      <module fileurl="file://D:\code\AndroidTests-master\AndroidTests-master\ResourceFileTest\ResourceFileTest.iml" filepath="D:\code\AndroidTests-master\AndroidTests-master\ResourceFileTest\ResourceFileTest.iml" />
+      <module fileurl="file://D:\code\AndroidTests-master\AndroidTests-master\ExpandableListViewTest\app.iml" filepath="D:\code\AndroidTests-master\AndroidTests-master\ExpandableListViewTest\app.iml" />
+      <module fileurl="file://D:\code\AndroidTests-master\AndroidTests-master\CalendarTest\calendartest.iml" filepath="D:\code\AndroidTests-master\AndroidTests-master\CalendarTest\calendartest.iml" />
+      <module fileurl="file://D:\code\AndroidTests-master\AndroidTests-master\ResourceFileTest\resourcetest.iml" filepath="D:\code\AndroidTests-master\AndroidTests-master\ResourceFileTest\resourcetest.iml" />
+    </modules>
+  </component>
+</project>
